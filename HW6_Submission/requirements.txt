@@ -1,0 +1,7 @@
+torch
+torchvision
+matplotlib
+datasets
+pandas
+pyarrow
+numpy<2
